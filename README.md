@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-HeLLGURD/HeLLGURD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open source contributor. Interested in systems, AI tooling, and developer infrastructure.
